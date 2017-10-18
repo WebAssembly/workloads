@@ -5,7 +5,7 @@ served at [webassembly.github.io/workloads](https://webassembly.github.io/worklo
 
 The goals of the repo are:
 * to provide a common place to share workloads between developers of
-  WebAssembly applications, engines and toolchain
+  WebAssembly applications, engines and toolchains
 * to provide meaningful measurements of realistic paths through realistic
   codebases (i.e., not collect synthetic benchmarks) that are dominated by
   WebAssembly performance (i.e., not APIs like WebGL)
