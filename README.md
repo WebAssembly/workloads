@@ -1,5 +1,8 @@
 # WebAssembly Workloads
 
+**This project never materialized and ongoing benchmark/measurement work has moved
+to the [benchmark](https://github.com/WebAssembly/benchmarks) repo.**
+
 This repo contains a collection of snapshots of WebAssembly workloads
 served at [webassembly.github.io/workloads](https://webassembly.github.io/workloads).
 
